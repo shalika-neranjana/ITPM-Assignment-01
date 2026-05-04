@@ -8,7 +8,11 @@ Python 3.11 or 3.12 is required.
 
 ```bash
 pip install --upgrade pip
+```
+```bash
 pip install playwright openpyxl
+```
+```bash
 npm install
 ```
 
